@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5316ca47-f78b-4cc5-8611-6499577b4ddc" name="Changes" comment="Background color for possible moves">
+    <list default="true" id="5316ca47-f78b-4cc5-8611-6499577b4ddc" name="Changes" comment="Created king movement logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663767618547</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Created king movement logic">
+      <created>1663768146428</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663768146428</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +166,7 @@
     <MESSAGE value="Added possible moves structure" />
     <MESSAGE value="Piece movement validation and rook logic" />
     <MESSAGE value="Background color for possible moves" />
-    <option name="LAST_COMMIT_MESSAGE" value="Background color for possible moves" />
+    <MESSAGE value="Created king movement logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created king movement logic" />
   </component>
 </project>
