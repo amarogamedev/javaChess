@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5316ca47-f78b-4cc5-8611-6499577b4ddc" name="Changes" comment="Added colors">
+    <list default="true" id="5316ca47-f78b-4cc5-8611-6499577b4ddc" name="Changes" comment="Clearing screen and while loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663763133713</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Clearing screen and while loop">
+      <created>1663764843267</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663764843267</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +124,7 @@
     <MESSAGE value="Added exceptions and initial piece types" />
     <MESSAGE value="Added more exceptions and position converter" />
     <MESSAGE value="Added colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added colors" />
+    <MESSAGE value="Clearing screen and while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clearing screen and while loop" />
   </component>
 </project>
